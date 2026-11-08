@@ -1,0 +1,25 @@
+{
+  "name": "my-web-course",
+  "version": "1.0.0",
+  "description": "Домашні завдання безкоштовного курсу веб-розробки [«Вивчай»]\r ДЗ",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test123451324/my-web-course.git"
+  },
+  "keywords": [],
+  "author": "Mykola",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/test123451324/my-web-course/issues"
+  },
+  "homepage": "https://github.com/test123451324/my-web-course#readme",
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
+}
